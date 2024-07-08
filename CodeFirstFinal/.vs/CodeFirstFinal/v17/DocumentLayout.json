@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\models\\teacherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\models\\teacherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\migrations\\20240708060353_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\migrations\\20240708060353_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|c:\\users\\shiva\\source\\repos\\codefirstfinal\\codefirstfinal\\migrations\\teacherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC1A349-D471-4747-8610-92392966AB8F}|CodeFirstFinal\\CodeFirstFinal.csproj|solutionrelative:codefirstfinal\\migrations\\teacherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAADwv44AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:21:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Program.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:50:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240708060353_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\20240708060353_Initial Migration.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Migrations\\20240708060353_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\20240708060353_Initial Migration.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Migrations\\20240708060353_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:03:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Models\\TeacherDBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Models\\TeacherDBContext.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Models\\TeacherDBContext.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Models\\TeacherDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:37:03.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Models\\Teacher.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:32:03.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\appsettings.json",
+              "RelativeToolTip": "CodeFirstFinal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T04:48:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:26:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstFinal\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T09:07:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstFinal\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:03:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240708060728_CodeFirstAddClass.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Migrations\\20240708060728_CodeFirstAddClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:07:29.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\TeacherDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Migrations\\TeacherDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Migrations\\TeacherDBContextModelSnapshot.cs",
+              "RelativeToolTip": "CodeFirstFinal\\Migrations\\TeacherDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:04:18.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstFinal\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T09:39:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinal\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\CodeFirstFinal\\CodeFirstFinal\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstFinal\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T09:47:07.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
