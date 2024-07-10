@@ -22,17 +22,7 @@ builder.Services.AddDbContext<StudentContext>(item => item.UseMySql(connectionst
     </div>
 </form>
 
-<form asp-action="SortByStatus" method="get">
-    <div>
-        <label for="sortOrder">Sort Students by Status:</label>
-        <select id="sortOrder" name="sortOrder">
-            <option value="">Select Sort Order</option>
-            <option value="ActiveFirst">Active First</option>
-            <option value="InactiveFirst">Inactive First</option>
-        </select>
-        <button type="submit">Sort</button>
-    </div>
-</form>
+<a asp-action="SortByStatus">Sort by Status Alphabetically</a>
 
 
 
@@ -49,26 +39,12 @@ builder.Services.AddDbContext<StudentContext>(item => item.UseMySql(connectionst
             return View("Index", students);
         }
 
+     [HttpGet]
+        public async Task<IActionResult> SortByStatus()
+ {
+     var students = await _context.Students
+                                 .OrderBy(s => s.Status)
+                                 .ToListAsync();
 
-        [HttpGet]
-        public async Task<IActionResult> SortByStatus(string sortOrder)
-        {
-            IQueryable<Student> studentsQuery = _context.Students;
-
-            if (sortOrder == "ActiveFirst")
-            {
-                studentsQuery = studentsQuery.OrderBy(s => s.Status == "Inactive").ThenBy(s => s.Status);
-            }
-            else if (sortOrder == "InactiveFirst")
-            {
-                studentsQuery = studentsQuery.OrderBy(s => s.Status == "Active").ThenBy(s => s.Status);
-            }
-            else
-            {
-                studentsQuery = studentsQuery.OrderBy(s => s.Status);
-            }
-
-            var students = await studentsQuery.ToListAsync();
-
-            return View("Index", students);
-        }
+     return View("Index", students);
+ }
