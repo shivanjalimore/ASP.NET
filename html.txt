@@ -1,3 +1,8 @@
+Scaffold-DbContext "server=localhost;database=endmodule;user=root;password=root" -provider "pomelo.entityframeworkcore.mysql" -OutputDir Models -ContextDir Data -Context StudentContext -Force
+
+
+
+
 <a asp-action="Create">Create New</a>
 
 <form asp-action="SearchByStatus" method="get">
