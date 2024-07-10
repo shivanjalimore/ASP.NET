@@ -3,8 +3,13 @@ Scaffold-DbContext "server=localhost;database=endmodule;user=root;password=root"
 
 
 
-<a asp-action="Create">Create New</a>
+var connectionstring = builder.Configuration.GetConnectionString("dbcs");
+builder.Services.AddDbContext<StudentContext>(item => item.UseMySql(connectionstring, ServerVersion.AutoDetect(connectionstring)));
 
+
+
+
+<a asp-action="Create">Create New</a>
 <form asp-action="SearchByStatus" method="get">
     <div>
         <label for="status">Search Students by Status:</label>
@@ -29,7 +34,12 @@ Scaffold-DbContext "server=localhost;database=endmodule;user=root;password=root"
     </div>
 </form>
 
-<hr>
+
+
+
+
+
+
         [HttpGet]
         public async Task<IActionResult> SearchByStatus(string status)
         {
